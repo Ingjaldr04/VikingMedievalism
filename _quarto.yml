@@ -29,5 +29,6 @@ format:
     toc: true
     number-sections: true
 
-
+exceute: 
+freeze: auto
 
