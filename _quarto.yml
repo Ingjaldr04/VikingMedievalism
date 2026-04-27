@@ -1,6 +1,6 @@
 project:
   type: website
-
+  site-url: https://ingjaldr04.github.io/VikingMedievalism/ 
 website:
   title: "Viking Medievalism"
   navbar:
