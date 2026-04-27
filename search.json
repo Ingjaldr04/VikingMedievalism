@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "Odins Hof.html#perceptions-of-hofs-and-the-future-of-the-afa",
-    "href": "Odins Hof.html#perceptions-of-hofs-and-the-future-of-the-afa",
-    "title": "Hofs",
-    "section": "2 Perceptions of Hofs and the Future of the AFA",
-    "text": "2 Perceptions of Hofs and the Future of the AFA\n\n2.1 Thors Hof\n\n\n2.2 Baldrs Hof\n\n\n2.3 Njords Hof\n\n\n2.4 Freys Hof"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Viking Medievalism",
@@ -21,11 +14,11 @@
     "text": "This website serves as a narrative history and repository of Viking Medievalisms in American right-wing neopaganism through the late twentieth and early twenty-first centuries. While there are now several neopagan groups in America, the focus here will be on the Asatru Folk Assembly and its splinter groups as one of the oldest examples of neopaganism in America. The AFA also serves as a case study for Viking Medievalism in America, which I will define and examine through the different pages on this website.\n\n\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2"
   },
   {
-    "objectID": "Division & the Asatru Free Alliance.html#the-asatru-free-alliance",
-    "href": "Division & the Asatru Free Alliance.html#the-asatru-free-alliance",
-    "title": "Division & the Asatru Free Alliance",
-    "section": "2 The Asatru Free Alliance",
-    "text": "2 The Asatru Free Alliance"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
   },
   {
     "objectID": "AFA & Online Neomedievalism.html#americas-long-history-with-viking-heritage-historical-misinformation-neomedievalism-in-the-twenty-first-century",
@@ -33,13 +26,6 @@
     "title": "AFA & Online Neomedievalism",
     "section": "2 America’s Long History with Viking Heritage: Historical Misinformation & Neomedievalism in the Twenty-First Century",
     "text": "2 America’s Long History with Viking Heritage: Historical Misinformation & Neomedievalism in the Twenty-First Century"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
   },
   {
     "objectID": "The Asatru Folk Assembly.html#getting-organized",
@@ -56,6 +42,13 @@
     "text": "3 Evolution of Beliefs"
   },
   {
+    "objectID": "Division & the Asatru Free Alliance.html#the-asatru-free-alliance",
+    "href": "Division & the Asatru Free Alliance.html#the-asatru-free-alliance",
+    "title": "Division & the Asatru Free Alliance",
+    "section": "2 The Asatru Free Alliance",
+    "text": "2 The Asatru Free Alliance"
+  },
+  {
     "objectID": "The Viking Brotherhood of America.html#the-early-days-of-modern-asatru",
     "href": "The Viking Brotherhood of America.html#the-early-days-of-modern-asatru",
     "title": "The Birth of a Nation & the Viking Brotherhood of America",
@@ -68,5 +61,12 @@
     "title": "The Birth of a Nation & the Viking Brotherhood of America",
     "section": "3 The Viking Brotherhood, Neopaganism, and the Golden Age of Viking Cinema",
     "text": "3 The Viking Brotherhood, Neopaganism, and the Golden Age of Viking Cinema"
+  },
+  {
+    "objectID": "Odins Hof.html#perceptions-of-hofs-and-the-future-of-the-afa",
+    "href": "Odins Hof.html#perceptions-of-hofs-and-the-future-of-the-afa",
+    "title": "Hofs",
+    "section": "2 Perceptions of Hofs and the Future of the AFA",
+    "text": "2 Perceptions of Hofs and the Future of the AFA\n\n2.1 Thors Hof\n\n\n2.2 Baldrs Hof\n\n\n2.3 Njords Hof\n\n\n2.4 Freys Hof"
   }
 ]
