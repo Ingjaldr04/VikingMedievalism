@@ -1,4 +1,0 @@
----
-title: "Thors Hof"
-editor: visual
----
