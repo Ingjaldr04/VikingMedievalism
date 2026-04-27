@@ -1,0 +1,4 @@
+---
+title: "Freys Hof"
+editor: visual
+---

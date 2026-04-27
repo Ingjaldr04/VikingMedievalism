@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Viking Medievalism"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - The Viking Brotherhood of America.qmd
+      - The Asatru Free Assembly.qmd
+      - Division & the Asatru Free Alliance.qmd
+      - The Asatru Folk Assembly.qmd
+      - Odins Hof.qmd
+      - AFA & Online Neomedievalism.qmd
+    collapse: true
+    collapse-below: xxl
+    
+format:
+  html:
+    code-fold: true
+    theme:
+      - darkly
+    mainfont: times new roman
+    fontsize: 1rem
+    fontcolor: "#DED8D7"
+    css: styles.css
+    toc: true
+    number-sections: true
+
+
+
