@@ -6,10 +6,16 @@ title: "[**Viking Medievalism**]{.underline}"
 This website serves as a narrative history and repository of Viking Medievalisms in American right-wing neopaganism through the late twentieth and early twenty-first centuries. While there are now several neopagan groups in America, the focus here will be on the Asatru Folk Assembly and its splinter groups as one of the oldest examples of neopaganism in America. The AFA also serves as a case study for Viking Medievalism in America, which I will define and examine through the different pages on this website. 
 
 ### ***What is Viking Medievalism***? 
-### **Viking Medievalism & American Neopaganism**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+![Movie Poster of ***The Vikings*** with Kirk Douglas (1958)](https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg)
 
 ```{r}
-1 + 1
+#| fig-column: margin
+
+
 ```
+
+
+### **Viking Medievalism & American Neopaganism**
