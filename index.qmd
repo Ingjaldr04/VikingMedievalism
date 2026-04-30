@@ -7,9 +7,7 @@ This website serves as a narrative history and repository of Viking Medievalisms
 
 ### ***What is Viking Medievalism***? 
 
-
-
-![Movie Poster of ***The Vikings*** with Kirk Douglas (1958)](https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg)
+![Movie Poster of ***The Vikings*** with Kirk Douglas (1958).](https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg)
 
 ```{r}
 #| fig-column: margin
