@@ -1,8 +1,8 @@
 {
-  "hash": "903565a52d9c905d3a94d2a5565cfdaf",
+  "hash": "f28a72a5bad125ceb5f40909950bb824",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"[**Viking Medievalism**]{.underline}\"\n---\n## A Viking Fantasy: Viking Medievalism in American Right-Wing Neopagan Groups\n\nThis website serves as a narrative history and repository of Viking Medievalisms in American right-wing neopaganism through the late twentieth and early twenty-first centuries. While there are now several neopagan groups in America, the focus here will be on the Asatru Folk Assembly and its splinter groups as one of the oldest examples of neopaganism in America. The AFA also serves as a case study for Viking Medievalism in America, which I will define and examine through the different pages on this website. \n\n### ***What is Viking Medievalism***? \n\n\n\n![Movie Poster of ***The Vikings*** with Kirk Douglas (1958)](https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg)\n\n\n::: {.cell .fig-column-margin}\n\n:::\n\n\n\n### **Viking Medievalism & American Neopaganism**",
+    "markdown": "---\ntitle: \"[**Viking Medievalism**]{.underline}\"\n---\n## A Viking Fantasy: Viking Medievalism in American Right-Wing Neopagan Groups\n\nThis website serves as a narrative history and repository of Viking Medievalisms in American right-wing neopaganism through the late twentieth and early twenty-first centuries. While there are now several neopagan groups in America, the focus here will be on the Asatru Folk Assembly and its splinter groups as one of the oldest examples of neopaganism in America. The AFA also serves as a case study for Viking Medievalism in America, which I will define and examine through the different pages on this website. \n\n### ***What is Viking Medievalism***? \n\n![Movie Poster of ***The Vikings*** with Kirk Douglas (1958).](https://upload.wikimedia.org/wikipedia/commons/3/37/Vikings_moviep.jpg)\n\n\n::: {.cell .fig-column-margin}\n\n:::\n\n\n\n### **Viking Medievalism & American Neopaganism**",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
