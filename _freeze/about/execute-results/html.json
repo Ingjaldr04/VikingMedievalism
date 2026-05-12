@@ -1,9 +1,11 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "f4b0f1aef60b994e721503fe8cf20e45",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About\"\n---\n\n## About the Author\nI am a historian and history MA student out of Virginia Tech. My research interests include the Viking Age, Viking medievalism, historical misinformation and negationism, Historical Martial Arts, warfare and society, living history, and experimental archeology. I have studied and published work on American Eugenics in Virginia, namely looking at Indigenous peoples' resistance to eugenics policies, \"Attempted Erasure and Resilience.\" As a Viking Age historian, I am particularly interested in how the Vikings are perceived today or Viking medievalism which is a re-imagining of the Vikings and their history to fit modern ideas. I am also interested in Geographic Information Systems and digital humanities, which is why I decided to make a project looking at the spatial history and development of Viking medievalism in the AFA. In the future I hope to expand off of my research here to look at Viking medievlism and historical misinformation more broadly, similar to this project analyzing the means in which misinformation spreads and is adopted.  \n## Bibliography\nAsatru Free Assembly. **The Runestone**\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
