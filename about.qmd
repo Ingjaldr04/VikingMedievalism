@@ -2,8 +2,36 @@
 title: "About"
 ---
 
-About this site
+## About the Author
 
-```{r}
-1 + 1
-```
+I am a historian and history MA student out of Virginia Tech. My research interests include the Viking Age, Viking medievalism, historical misinformation and negationism, Historical Martial Arts, warfare and society, living history, and experimental archeology. I have studied and published work on American Eugenics in Virginia, namely looking at Indigenous peoples' resistance to eugenics policies, "Attempted Erasure and Resilience." As a Viking Age historian, I am particularly interested in how the Vikings are perceived today or Viking medievalism which is a re-imagining of the Vikings and their history to fit modern ideas. I am also interested in Geographic Information Systems and digital humanities, which is why I decided to make a project looking at the spatial history and development of Viking medievalism in the AFA. In the future I hope to expand off of my research here to look at Viking medievlism and historical misinformation more broadly, similar to this project analyzing the means in which misinformation spreads and is adopted.
+
+## Bibliography
+
+### Primary Sources for this Project:
+
+Asatru Free Assembly. ***The Runestone: Quarterly Magazine*** (1970-1990).
+
+Asatru Folk Assembly. ***The Runestone: Quarterly Magazine*** (2000-2026).
+
+Marshall, Edison. ***The Viking.*** Farrar, Straus, and Young, 1951.
+
+McNallen, Stephen A. ***Asatru: A Native European Spirituality.*** Self-Published, 2015.
+
+McNallen, Stephen A. ***The Philosophy of Metagenetics, Folkism, and Beyond.*** Self-Published, 2006.
+
+### Secondary Literature for this Project:
+
+Cederlund, Carl Olof. “The Modern Myth of the Viking.” ***Journal of Maritime Archeology*** 6, No. 1 (2011): 5-35.
+
+Clark, David. ***Children’s Literature and Old Norse Medievalism.*** Arc Humanities Press, 2023.
+
+Delgado, Alberto Robles. ***The Representation of Vikings in Cinema and Television.*** Routledge, 2025.
+
+Kolodny, Annette. ***In Search of First Contact: The Vikings of Vinland, the Peoples of the Dawnland, and the Anglo-American Anxiety of Discovery.*** Duke University Press, 2012.
+
+***Viking Heritage and History in Europe: Practices and Re-Creation.*** Edited by Sarah Ellis Nilsson and Stefan Nyzell. Routledge, 2024.
+
+Von Schnurbein, Stefanie. ***Norse Revival: Transformations of Germanic Neopaganism.*** Brill, 2016.
+
+Winroth, Anders. ***The Age of the Vikings.*** Princeton University Press, 2014.
